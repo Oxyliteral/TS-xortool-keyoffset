@@ -8,3 +8,5 @@ Triangle Strategy's lub filse are encrypted with a 256-byte key. For each file, 
 Drag your encrypted file onto xortool-keyoffset.py to use.
 
 Alternatively, use command prompt.
+
+Uses XorTool functions, but works independently.
